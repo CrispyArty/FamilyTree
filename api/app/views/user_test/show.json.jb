@@ -1,0 +1,4 @@
+{
+  gosu: "user_auth",
+  current_user: current_user.attributes
+}

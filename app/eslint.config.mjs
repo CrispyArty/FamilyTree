@@ -33,6 +33,7 @@ const eslintConfig = [
           pathGroupsExcludedImportTypes: [],
         },
       ],
+      'import/newline-after-import': ['warn', { count: 1 }],
       'no-duplicate-imports': ['error', { includeExports: true }],
       'no-console': ['warn'],
       // '@typescript-eslint/naming-convention': [

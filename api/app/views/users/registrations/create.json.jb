@@ -1,0 +1,4 @@
+{
+  id: resource.id,
+  email: resource.email
+}
